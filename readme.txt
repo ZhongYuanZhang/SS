@@ -1,4 +1,8 @@
-Codes for the papers "Zhang Z Y. Community structure detection in complex networks with partial background information", and "Enhanced Community Structure Detection in Complex Networks with Partial Background Information" by Zhong-Yuan Zhang, et al.
+Codes for the papers "Zhang Z Y. Community structure detection in complex
+ networks with partial background information", and "Enhanced Community
+ Structure Detection in Complex Networks with Partial Background
+ Information" by Zhong-Yuan Zhang, et al.
+ 
 
 To run the tests, just load the files and run demo1.m in Matlab.
 
@@ -17,7 +21,10 @@ Have fun!
 
 If you use the codes, please make reference to: 
 
-Zhang Z Y. Community structure detection in complex networks with partial background information[J]. EPL (Europhysics Letters), 2013, 101(4): 48005.
+Zhang Z Y. Community structure detection in complex networks with partial 
+background information[J]. EPL (Europhysics Letters), 2013, 101(4): 48005.
 
-Zhang Z Y, Sun K D, Wang S Q. Enhanced Community Structure Detection in Complex Networks with Partial Background Information[J]. Scientific reports, 2013, 3.
+Zhang Z Y, Sun K D, Wang S Q. Enhanced Community Structure Detection in 
+Complex Networks with Partial Background Information[J]. Scientific reports, 
+2013, 3.
 
